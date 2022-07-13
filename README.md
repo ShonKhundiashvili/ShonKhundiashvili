@@ -1,4 +1,4 @@
-# Hi there 👋, my name is Shon Khundiashvili
+# Hi there 👋, my name is Shon
 
 I am currently a third year student in computer science 💻
 
