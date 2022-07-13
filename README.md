@@ -1,10 +1,10 @@
 # Hi there 👋, my name is Shon
 
-I am currently a 3rd year student in computer science 💻
+I am currently a 3rd year computer science student 💻
 
-I like to learn new technologies, create things, test them and most importantly develop 🔨
+Passionate about learning and discovering new technologies, creating things and most importantly developing them 🔨
 
-I am passionate about the innovative technologies and would love to connect to a huge high tech world in order to show my skills and gain experience🌍
+Looking for a challenging position in order to gain experience and to connect with huge world of High-Tech🌎
 
 # ⚡Gained knowledge during the degree 
 
