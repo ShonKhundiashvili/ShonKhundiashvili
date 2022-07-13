@@ -1,6 +1,6 @@
 # Hi there 👋, my name is Shon
 
-I am currently a third year student in computer science 💻
+I am currently a 3rd year student in computer science 💻
 
 I like to learn new technologies, create things, test them and most importantly develop 🔨
 
