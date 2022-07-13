@@ -5,9 +5,9 @@ I like to learn new technologies, create things, test them and most importantly 
 
 I love the innovative technological world and am looking for a job in order to connect to huge world of high tech🌍
 
-# ⚡Knowledge I learned during my studies 
+# ⚡Gained knowledge during the degree 
 
-📰Operating Systems: Windows | Kali-Linux | Mac
-🛢️ Data-Bases: MySQL
-🗣 Skills: C++ (OPP) | C | Python | Html | CSS (basic knowledge) | JavaScript
-🐱‍Tools: 👤Git | Github
+- Bullet list 📰Operating Systems: Windows | Kali-Linux | Mac
+- Bullet list🛢️ Data-Bases: MySQL
+- Bullet list🗣 Skills: C++ (OPP) | C | Python | Html | CSS (basic knowledge) | JavaScript
+- Bullet list🐱‍Tools: 👤Git | Github
