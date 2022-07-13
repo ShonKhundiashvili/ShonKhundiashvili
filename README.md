@@ -9,5 +9,5 @@ I love the innovative technological world and am looking for a job in order to c
 
 - 📰Operating Systems: Windows | Kali-Linux | Mac
 - 🛢️ Data-Bases: MySQL
-- 🗣 Skills: C++ (OPP) | C | Python | Html | CSS (basic knowledge) | JavaScript
+- 🗣 Skills: C++ (OPP)  |  C  | Python  | Html  | CSS (basic knowledge)  | JavaScript
 - 🐱‍Tools: 👤Git | Github
