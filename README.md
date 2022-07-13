@@ -1,6 +1,6 @@
 # Hi there 👋
 
-##My name is Shon Khundiashvili, I am currently a third year student in computer science 💻##
+My name is Shon Khundiashvili, I am currently a third year student in computer science 💻
 
 I like to learn new technologies, create things, test them and most importantly develop 🔨
 
