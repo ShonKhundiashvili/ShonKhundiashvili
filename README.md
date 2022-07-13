@@ -8,7 +8,7 @@ I love the innovative technological world and am looking for a job in order to c
 ### Knowledge I learned during my studies ⚡
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Operating Systems 📰
-🛢️ MySQL
-🗣 C++ (OPP) | C | Python | Html | CSS (basic knowledge) | JavaScript
-🐱‍👤Git | Github
-📟 Linux | Windows | Mac
+“*”🛢️ MySQL
+“*”🗣 C++ (OPP) | C | Python | Html | CSS (basic knowledge) | JavaScript
+“*”🐱‍👤Git | Github
+“*”📟 Linux | Windows | Mac
