@@ -9,6 +9,6 @@ I am passionate about the innovative technologies and would love to connect to a
 # ⚡Gained knowledge during the degree 
 
 - 🖥Operating Systems: Windows | Kali-Linux | Mac
-- 🛢️ Data-Bases: SQL
-- 🗣 Skills: C++ (OPP)  |  C  | Python  | Html  | CSS (basic knowledge)  | JavaScript
+- 🛢️Data-Bases: SQL
+- 🗣Skills: C++ (OPP)  |  C  | Python  | Html  | CSS (basic knowledge)  | JavaScript
 - 😺Tools: Git | Github
