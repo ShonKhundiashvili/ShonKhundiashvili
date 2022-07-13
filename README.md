@@ -7,7 +7,7 @@ I love the innovative technological world and am looking for a job in order to c
 
 # ⚡Gained knowledge during the degree 
 
-- Bullet list 📰Operating Systems: Windows | Kali-Linux | Mac
-- Bullet list🛢️ Data-Bases: MySQL
-- Bullet list🗣 Skills: C++ (OPP) | C | Python | Html | CSS (basic knowledge) | JavaScript
-- Bullet list🐱‍Tools: 👤Git | Github
+-📰Operating Systems: Windows | Kali-Linux | Mac
+-🛢️ Data-Bases: MySQL
+-🗣 Skills: C++ (OPP) | C | Python | Html | CSS (basic knowledge) | JavaScript
+-🐱‍Tools: 👤Git | Github
